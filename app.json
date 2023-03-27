@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "garments",
+    "slug": "garments",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2362178e-11c9-4aca-a33c-c844c8c0ed24"
+      }
+    }
+  },
+  "name": "garments"
+}
